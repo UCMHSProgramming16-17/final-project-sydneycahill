@@ -1,4 +1,4 @@
-ideas for visualizing data of the Pokemon data
+ideas for visualizing the Pokemon data
 * Scatter Plot showing Sp. Atk vs. Sp. Def
 * Scatter Plot showing HP of Pokemon vs. Speed
 * HeatMap showing speed of the Pokemon types
